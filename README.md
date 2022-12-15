@@ -1,5 +1,8 @@
+<div align="center">
+<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
+
 - Hola 👋 Soy SNT
-- Me gusta programar y hacer cosas innecesarias
+- Me gusta programar y hacer cosas innecesarias xd
 - Soy baterista y saxofonista 🥁🎷
 - Soy de Paraguay 🇵🇾 Pero estoy viviendo en México 🇲🇽
 
